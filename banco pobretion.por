@@ -10,15 +10,15 @@ programa
 		cadeia nome
 		inteiro agencia, numeroC, digitoV, primeiroDep
 		real contaC = 0, contaCdois, contaCsaque, contapoupanca = 0, contapoupancaDois, contapoupancasaque
-          logico menu = verdadeiro
+                logico menu = verdadeiro
 
 		//ENTRADA DE DADOS. NESSA ETAPA O USUARIO IRA INSERIR OS DADOS CONFORME É PEDIDO NO CODIGO ABAIXO PARA CRIAR SUA CONTA.
 		
 		escreva("*************************************\n")
 		escreva("*                                   *")
-          escreva("\n*   BEM VINDO AO BANCO POBRETION!   *\n")
-          escreva("*                                   *")
-          escreva("\n*************************************\n")
+                escreva("\n*   BEM VINDO AO BANCO POBRETION!   *\n")
+                escreva("*                                   *")
+                escreva("\n*************************************\n")
 		escreva("\nPara começar-mos, digite seu nome: ")
 		leia(nome)
 		escreva("digite o número da conta: ")
